@@ -11,4 +11,4 @@
 }
 ```
 
-Developed by [flav#2200](https://github.com/flav28) with ❤️
+Developed by [RapiiCloud](https://github.com/RapiiCloud) with ❤️ (News Update)
